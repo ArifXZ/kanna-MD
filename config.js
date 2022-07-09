@@ -1,15 +1,3 @@
-/* THANKS TO
-Allah SWT
-Nurutomo
-Bochilgaming
-Rominaru
-Kannachann
-The.sad.Boy01
-Rasel comel
-Xtreshe (Beban)
-Dll
-*/
-
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -48,23 +36,20 @@ global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
 global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '0895347198105'
+global.povo = '0895347198105'
+global.pgopay = '089636219395'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nomorbot = '62895347198105'
+global.nomorown = '62895347198105'
+global.namebot = 'Sharo-MD'
+global.nameown = 'ARIF XZ ✰'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610', 'Rozi', true]
+  ['62895347198105', 'ARIF XZ ✰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +94,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = 'ᯤ Sharo-𝕸𝕯' //Main Watermark
+global.wm2 = 'ᯤ Sharo-𝕸𝕯'
+global.wm3 = 'ᯤ Sharo-𝕸𝕯';
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ ARIF XZ ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
